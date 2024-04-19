@@ -1,9 +1,9 @@
-* This is a Copy of my group project together with my partner kinpark (https://github.com/kinpark) and is pulled from this repository (https://github.com/kinpark/EWU-CSCD379-2023-Spring/tree/final)
+* This is a Copy of my group project together with my partner kinpark (https://github.com/kinpark) and is pulled from this repository (https://github.com/kinpark/EWU-CSCD379-2023-Spring/tree/Assign-5)
 
-* This is a simple Tic Tac Toe game with an implementation like Menu, Create an account, Sign in, log in, Leaderboard, basic bot, and simple instruction page on how to play.
-* The game is designed for 2 players using the same computer but can also be played with an easy or hard bot.
+* This is a simple Wordle game with extra implementation like Menu, Create an account, Sign in, log in, Leaderboard, and a simple instruction page on how to play.
+* The game is similar to NY times wordle game with some extra features like search for words and showing what words are left that can fit in 
 
-* To access the game, open folder tictactoe-web with something like Visual Studio Code with the correct extension and run with 'npm run dev' 
+* To access the game, open folder wordle-web with something like Visual Studio Code with the correct extension and run with 'npm run dev' 
 * Then open and run Wordle.Api solution to have access to the backend of the game to allow access to functions like login and Leaderboard. 
 
 ## Tech Stack References
@@ -30,11 +30,6 @@
 * [GitHub Actions YAML](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
 * [SignalR](https://docs.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-7.0) (Potentially)
 * [Azure Deployment Action](https://learn.microsoft.com/en-us/azure/static-web-apps/build-configuration?tabs=github-actions#build-and-deploy)
-
-## General Information:
-* **Office Hours**: Office hours are available before class on Tuesday's and Thursdays starting at 1 PM. To ensure that an instructor will be available, please schedule an appointment 24-hours beforehand by sending a meeting request email to EWU-Instructors@IntelliTect.com. Alternative times may be available upon request.
-* A list of topics covered in class will be recorded by students in the [**Lectures**](Lectures.md) markdown file. It will also contain a general schedule for the class, but this may be adjusted based on pacing.
-
 
 ### VS Code Extensions ###
 - [Vitest](https://marketplace.visualstudio.com/items?itemName=ZixuanChen.vitest-explorer) Unit testing extension
